@@ -1,0 +1,47 @@
+output_dir: ""
+length_model: ""
+total_yield: 2_250_000_000
+location_isolates:
+  Bacillus amyloliquefaciens 1: ""
+  Bacillus licheniformis 1: ""
+  Bacillus velezensis 1: ""
+
+  Bacillus licheniformis 2: ""
+  Bacillus velezensis 2: ""
+
+  Bacillus amyloliquefaciens 3: ""
+  Bacillus licheniformis 3: ""
+  Bacillus subtilis 3: ""
+
+  Bacillus amyloliquefaciens 4: ""
+  Bacillus licheniformis 4: ""
+  Bacillus paranthracis 4: ""
+
+  Bacillus amyloliquefaciens 5: ""
+  Bacillus licheniformis 5: ""
+  Bacillus paranthracis 5: ""
+  Bacillus subtilis 5: ""
+  Bacillus velezensis 5: ""
+
+mixes:
+  mix_1:
+    Bacillus amyloliquefaciens 1: 22.5
+    Bacillus licheniformis 1: 75
+    Bacillus velezensis 1: 2.5
+  mix_2:
+    Bacillus licheniformis 2: 20
+    Bacillus velezensis 2: 80
+  mix_3:
+    Bacillus amyloliquefaciens 3: 76.5
+    Bacillus licheniformis 3: 22.5
+    Bacillus subtilis 3: 1
+  mix_4:
+    Bacillus amyloliquefaciens 4: 20
+    Bacillus paranthracis 4: 5
+    Bacillus licheniformis 4: 75
+  mix_5:
+    Bacillus amyloliquefaciens 5: 20
+    Bacillus paranthracis 5: 20
+    Bacillus licheniformis 5: 20
+    Bacillus subtilis 5: 20
+    Bacillus velezensis 5: 20

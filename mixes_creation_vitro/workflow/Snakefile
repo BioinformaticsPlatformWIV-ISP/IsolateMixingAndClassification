@@ -1,0 +1,8 @@
+from pathlib import Path
+
+include: "rules/create_mixes.smk"
+
+rule all:
+    input:
+        expand(Path('{ROOT}') / '{mix_n}' / '{mix_n}.fq', ROOT=config['output_dir'], mix_n=config['mixes'].keys()),
+        expand(Path('{ROOT}') / '{mix_n}' / 'ground_truth.names', ROOT=config['output_dir'], mix_n=config['mixes'].keys())

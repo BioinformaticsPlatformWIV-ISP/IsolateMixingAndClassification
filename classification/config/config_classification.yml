@@ -1,0 +1,8 @@
+output_dir: ""
+samples:
+  sample_1:
+    input: ""
+  sample_2:
+    input: ""
+kma_db: ""
+lookup: ""

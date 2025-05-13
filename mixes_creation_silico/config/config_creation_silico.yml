@@ -1,0 +1,1234 @@
+output_dir: ""
+length_model: ""
+total_yield: 3_000_000
+location_isolates:
+  Bacillus amyloliquefaciens: ""
+  Bacillus paranthracis: ""
+  Bacillus licheniformis: ""
+  Bacillus subtilis: ""
+  Bacillus velezensis: ""
+mixes:
+  mix_1:
+    Bacillus amyloliquefaciens: 50
+    Bacillus licheniformis: 50
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_2:
+    Bacillus amyloliquefaciens: 50
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 50
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_3:
+    Bacillus amyloliquefaciens: 50
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 50
+    Bacillus paranthracis: 0
+  mix_4:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 50
+    Bacillus subtilis: 50
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_5:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 50
+    Bacillus subtilis: 0
+    Bacillus velezensis: 50
+    Bacillus paranthracis: 0
+  mix_6:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 50
+    Bacillus velezensis: 50
+    Bacillus paranthracis: 0
+  mix_7:
+    Bacillus amyloliquefaciens: 90
+    Bacillus licheniformis: 10
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_8:
+    Bacillus amyloliquefaciens: 90
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 10
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_9:
+    Bacillus amyloliquefaciens: 90
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 10
+    Bacillus paranthracis: 0
+  mix_10:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 90
+    Bacillus subtilis: 10
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_11:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 90
+    Bacillus subtilis: 0
+    Bacillus velezensis: 10
+    Bacillus paranthracis: 0
+  mix_12:
+    Bacillus amyloliquefaciens: 10
+    Bacillus licheniformis: 90
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_13:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 90
+    Bacillus velezensis: 10
+    Bacillus paranthracis: 0
+  mix_14:
+    Bacillus amyloliquefaciens: 10
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 90
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_15:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 10
+    Bacillus subtilis: 90
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_16:
+    Bacillus amyloliquefaciens: 10
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 90
+    Bacillus paranthracis: 0
+  mix_17:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 10
+    Bacillus subtilis: 0
+    Bacillus velezensis: 90
+    Bacillus paranthracis: 0
+  mix_18:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 10
+    Bacillus velezensis: 90
+    Bacillus paranthracis: 0
+  mix_19:
+    Bacillus amyloliquefaciens: 45
+    Bacillus licheniformis: 45
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 10
+  mix_20:
+    Bacillus amyloliquefaciens: 45
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 45
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 10
+  mix_21:
+    Bacillus amyloliquefaciens: 45
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 45
+    Bacillus paranthracis: 10
+  mix_22:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 45
+    Bacillus subtilis: 45
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 10
+  mix_23:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 45
+    Bacillus subtilis: 0
+    Bacillus velezensis: 45
+    Bacillus paranthracis: 10
+  mix_24:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 45
+    Bacillus velezensis: 45
+    Bacillus paranthracis: 10
+  mix_25:
+    Bacillus amyloliquefaciens: 1
+    Bacillus licheniformis: 99
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_26:
+    Bacillus amyloliquefaciens: 1
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 99
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_27:
+    Bacillus amyloliquefaciens: 1
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 99
+    Bacillus paranthracis: 0
+  mix_28:
+    Bacillus amyloliquefaciens: 1
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 99
+  mix_29:
+    Bacillus amyloliquefaciens: 99
+    Bacillus licheniformis: 1
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_30:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 1
+    Bacillus subtilis: 99
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_31:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 1
+    Bacillus subtilis: 0
+    Bacillus velezensis: 99
+    Bacillus paranthracis: 0
+  mix_32:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 1
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 99
+  mix_33:
+    Bacillus amyloliquefaciens: 99
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 1
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_34:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 99
+    Bacillus subtilis: 1
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_35:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 1
+    Bacillus velezensis: 99
+    Bacillus paranthracis: 0
+  mix_36:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 1
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 99
+  mix_37:
+    Bacillus amyloliquefaciens: 99
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 1
+    Bacillus paranthracis: 0
+  mix_38:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 99
+    Bacillus subtilis: 0
+    Bacillus velezensis: 1
+    Bacillus paranthracis: 0
+  mix_39:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 99
+    Bacillus velezensis: 1
+    Bacillus paranthracis: 0
+  mix_40:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 1
+    Bacillus paranthracis: 99
+  mix_41:
+    Bacillus amyloliquefaciens: 99
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 1
+  mix_42:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 99
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 1
+  mix_43:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 99
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 1
+  mix_44:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 99
+    Bacillus paranthracis: 1
+  mix_45:
+    Bacillus amyloliquefaciens: 2
+    Bacillus licheniformis: 98
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_46:
+    Bacillus amyloliquefaciens: 2
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 98
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_47:
+    Bacillus amyloliquefaciens: 2
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 98
+    Bacillus paranthracis: 0
+  mix_48:
+    Bacillus amyloliquefaciens: 2
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 98
+  mix_49:
+    Bacillus amyloliquefaciens: 98
+    Bacillus licheniformis: 2
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_50:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 2
+    Bacillus subtilis: 98
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_51:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 2
+    Bacillus subtilis: 0
+    Bacillus velezensis: 98
+    Bacillus paranthracis: 0
+  mix_52:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 2
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 98
+  mix_53:
+    Bacillus amyloliquefaciens: 98
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 2
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_54:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 98
+    Bacillus subtilis: 2
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_55:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 2
+    Bacillus velezensis: 98
+    Bacillus paranthracis: 0
+  mix_56:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 2
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 98
+  mix_57:
+    Bacillus amyloliquefaciens: 98
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 2
+    Bacillus paranthracis: 0
+  mix_58:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 98
+    Bacillus subtilis: 0
+    Bacillus velezensis: 2
+    Bacillus paranthracis: 0
+  mix_59:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 98
+    Bacillus velezensis: 2
+    Bacillus paranthracis: 0
+  mix_60:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 2
+    Bacillus paranthracis: 98
+  mix_61:
+    Bacillus amyloliquefaciens: 98
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 2
+  mix_62:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 98
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 2
+  mix_63:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 98
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 2
+  mix_64:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 98
+    Bacillus paranthracis: 2
+  mix_65:
+    Bacillus amyloliquefaciens: 3
+    Bacillus licheniformis: 97
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_66:
+    Bacillus amyloliquefaciens: 3
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 97
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_67:
+    Bacillus amyloliquefaciens: 3
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 97
+    Bacillus paranthracis: 0
+  mix_68:
+    Bacillus amyloliquefaciens: 3
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 97
+  mix_69:
+    Bacillus amyloliquefaciens: 97
+    Bacillus licheniformis: 3
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_70:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 3
+    Bacillus subtilis: 97
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_71:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 3
+    Bacillus subtilis: 0
+    Bacillus velezensis: 97
+    Bacillus paranthracis: 0
+  mix_72:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 3
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 97
+  mix_73:
+    Bacillus amyloliquefaciens: 97
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 3
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_74:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 97
+    Bacillus subtilis: 3
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_75:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 3
+    Bacillus velezensis: 97
+    Bacillus paranthracis: 0
+  mix_76:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 3
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 97
+  mix_77:
+    Bacillus amyloliquefaciens: 97
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 3
+    Bacillus paranthracis: 0
+  mix_78:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 97
+    Bacillus subtilis: 0
+    Bacillus velezensis: 3
+    Bacillus paranthracis: 0
+  mix_79:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 97
+    Bacillus velezensis: 3
+    Bacillus paranthracis: 0
+  mix_80:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 3
+    Bacillus paranthracis: 97
+  mix_81:
+    Bacillus amyloliquefaciens: 97
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 3
+  mix_82:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 97
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 3
+  mix_83:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 97
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 3
+  mix_84:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 97
+    Bacillus paranthracis: 3
+  mix_85:
+    Bacillus amyloliquefaciens: 4
+    Bacillus licheniformis: 96
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_86:
+    Bacillus amyloliquefaciens: 4
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 96
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_87:
+    Bacillus amyloliquefaciens: 4
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 96
+    Bacillus paranthracis: 0
+  mix_88:
+    Bacillus amyloliquefaciens: 4
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 96
+  mix_89:
+    Bacillus amyloliquefaciens: 96
+    Bacillus licheniformis: 4
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_90:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 4
+    Bacillus subtilis: 96
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_91:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 4
+    Bacillus subtilis: 0
+    Bacillus velezensis: 96
+    Bacillus paranthracis: 0
+  mix_92:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 4
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 96
+  mix_93:
+    Bacillus amyloliquefaciens: 96
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 4
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_94:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 96
+    Bacillus subtilis: 4
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_95:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 4
+    Bacillus velezensis: 96
+    Bacillus paranthracis: 0
+  mix_96:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 4
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 96
+  mix_97:
+    Bacillus amyloliquefaciens: 96
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 4
+    Bacillus paranthracis: 0
+  mix_98:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 96
+    Bacillus subtilis: 0
+    Bacillus velezensis: 4
+    Bacillus paranthracis: 0
+  mix_99:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 96
+    Bacillus velezensis: 4
+    Bacillus paranthracis: 0
+  mix_100:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 4
+    Bacillus paranthracis: 96
+  mix_101:
+    Bacillus amyloliquefaciens: 96
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 4
+  mix_102:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 96
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 4
+  mix_103:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 96
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 4
+  mix_104:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 96
+    Bacillus paranthracis: 4
+  mix_105:
+    Bacillus amyloliquefaciens: 5
+    Bacillus licheniformis: 95
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_106:
+    Bacillus amyloliquefaciens: 5
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 95
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_107:
+    Bacillus amyloliquefaciens: 5
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 95
+    Bacillus paranthracis: 0
+  mix_108:
+    Bacillus amyloliquefaciens: 5
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 95
+  mix_109:
+    Bacillus amyloliquefaciens: 95
+    Bacillus licheniformis: 5
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_110:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 5
+    Bacillus subtilis: 95
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_111:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 5
+    Bacillus subtilis: 0
+    Bacillus velezensis: 95
+    Bacillus paranthracis: 0
+  mix_112:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 5
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 95
+  mix_113:
+    Bacillus amyloliquefaciens: 95
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 5
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_114:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 95
+    Bacillus subtilis: 5
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_115:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 5
+    Bacillus velezensis: 95
+    Bacillus paranthracis: 0
+  mix_116:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 5
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 95
+  mix_117:
+    Bacillus amyloliquefaciens: 95
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 5
+    Bacillus paranthracis: 0
+  mix_118:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 95
+    Bacillus subtilis: 0
+    Bacillus velezensis: 5
+    Bacillus paranthracis: 0
+  mix_119:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 95
+    Bacillus velezensis: 5
+    Bacillus paranthracis: 0
+  mix_120:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 5
+    Bacillus paranthracis: 95
+  mix_121:
+    Bacillus amyloliquefaciens: 95
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 5
+  mix_122:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 95
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 5
+  mix_123:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 95
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 5
+  mix_124:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 95
+    Bacillus paranthracis: 5
+  mix_125:
+    Bacillus amyloliquefaciens: 6
+    Bacillus licheniformis: 94
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_126:
+    Bacillus amyloliquefaciens: 6
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 94
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_127:
+    Bacillus amyloliquefaciens: 6
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 94
+    Bacillus paranthracis: 0
+  mix_128:
+    Bacillus amyloliquefaciens: 6
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 94
+  mix_129:
+    Bacillus amyloliquefaciens: 94
+    Bacillus licheniformis: 6
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_130:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 6
+    Bacillus subtilis: 94
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_131:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 6
+    Bacillus subtilis: 0
+    Bacillus velezensis: 94
+    Bacillus paranthracis: 0
+  mix_132:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 6
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 94
+  mix_133:
+    Bacillus amyloliquefaciens: 94
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 6
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_134:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 94
+    Bacillus subtilis: 6
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_135:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 6
+    Bacillus velezensis: 94
+    Bacillus paranthracis: 0
+  mix_136:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 6
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 94
+  mix_137:
+    Bacillus amyloliquefaciens: 94
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 6
+    Bacillus paranthracis: 0
+  mix_138:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 94
+    Bacillus subtilis: 0
+    Bacillus velezensis: 6
+    Bacillus paranthracis: 0
+  mix_139:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 94
+    Bacillus velezensis: 6
+    Bacillus paranthracis: 0
+  mix_140:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 6
+    Bacillus paranthracis: 94
+  mix_141:
+    Bacillus amyloliquefaciens: 94
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 6
+  mix_142:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 94
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 6
+  mix_143:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 94
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 6
+  mix_144:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 94
+    Bacillus paranthracis: 6
+  mix_145:
+    Bacillus amyloliquefaciens: 7
+    Bacillus licheniformis: 93
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_146:
+    Bacillus amyloliquefaciens: 7
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 93
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_147:
+    Bacillus amyloliquefaciens: 7
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 93
+    Bacillus paranthracis: 0
+  mix_148:
+    Bacillus amyloliquefaciens: 7
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 93
+  mix_149:
+    Bacillus amyloliquefaciens: 93
+    Bacillus licheniformis: 7
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_150:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 7
+    Bacillus subtilis: 93
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_151:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 7
+    Bacillus subtilis: 0
+    Bacillus velezensis: 93
+    Bacillus paranthracis: 0
+  mix_152:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 7
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 93
+  mix_153:
+    Bacillus amyloliquefaciens: 93
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 7
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_154:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 93
+    Bacillus subtilis: 7
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_155:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 7
+    Bacillus velezensis: 93
+    Bacillus paranthracis: 0
+  mix_156:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 7
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 93
+  mix_157:
+    Bacillus amyloliquefaciens: 93
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 7
+    Bacillus paranthracis: 0
+  mix_158:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 93
+    Bacillus subtilis: 0
+    Bacillus velezensis: 7
+    Bacillus paranthracis: 0
+  mix_159:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 93
+    Bacillus velezensis: 7
+    Bacillus paranthracis: 0
+  mix_160:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 7
+    Bacillus paranthracis: 93
+  mix_161:
+    Bacillus amyloliquefaciens: 93
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 7
+  mix_162:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 93
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 7
+  mix_163:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 93
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 7
+  mix_164:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 93
+    Bacillus paranthracis: 7
+  mix_165:
+    Bacillus amyloliquefaciens: 8
+    Bacillus licheniformis: 92
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_166:
+    Bacillus amyloliquefaciens: 8
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 92
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_167:
+    Bacillus amyloliquefaciens: 8
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 92
+    Bacillus paranthracis: 0
+  mix_168:
+    Bacillus amyloliquefaciens: 8
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 92
+  mix_169:
+    Bacillus amyloliquefaciens: 92
+    Bacillus licheniformis: 8
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_170:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 8
+    Bacillus subtilis: 92
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_171:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 8
+    Bacillus subtilis: 0
+    Bacillus velezensis: 92
+    Bacillus paranthracis: 0
+  mix_172:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 8
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 92
+  mix_173:
+    Bacillus amyloliquefaciens: 92
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 8
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_174:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 92
+    Bacillus subtilis: 8
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_175:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 8
+    Bacillus velezensis: 92
+    Bacillus paranthracis: 0
+  mix_176:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 8
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 92
+  mix_177:
+    Bacillus amyloliquefaciens: 92
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 8
+    Bacillus paranthracis: 0
+  mix_178:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 92
+    Bacillus subtilis: 0
+    Bacillus velezensis: 8
+    Bacillus paranthracis: 0
+  mix_179:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 92
+    Bacillus velezensis: 8
+    Bacillus paranthracis: 0
+  mix_180:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 8
+    Bacillus paranthracis: 92
+  mix_181:
+    Bacillus amyloliquefaciens: 92
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 8
+  mix_182:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 92
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 8
+  mix_183:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 92
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 8
+  mix_184:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 92
+    Bacillus paranthracis: 8
+  mix_185:
+    Bacillus amyloliquefaciens: 9
+    Bacillus licheniformis: 91
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_186:
+    Bacillus amyloliquefaciens: 9
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 91
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_187:
+    Bacillus amyloliquefaciens: 9
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 91
+    Bacillus paranthracis: 0
+  mix_188:
+    Bacillus amyloliquefaciens: 9
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 91
+  mix_189:
+    Bacillus amyloliquefaciens: 91
+    Bacillus licheniformis: 9
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_190:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 9
+    Bacillus subtilis: 91
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_191:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 9
+    Bacillus subtilis: 0
+    Bacillus velezensis: 91
+    Bacillus paranthracis: 0
+  mix_192:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 9
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 91
+  mix_193:
+    Bacillus amyloliquefaciens: 91
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 9
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_194:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 91
+    Bacillus subtilis: 9
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 0
+  mix_195:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 9
+    Bacillus velezensis: 91
+    Bacillus paranthracis: 0
+  mix_196:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 9
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 91
+  mix_197:
+    Bacillus amyloliquefaciens: 91
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 9
+    Bacillus paranthracis: 0
+  mix_198:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 91
+    Bacillus subtilis: 0
+    Bacillus velezensis: 9
+    Bacillus paranthracis: 0
+  mix_199:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 91
+    Bacillus velezensis: 9
+    Bacillus paranthracis: 0
+  mix_200:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 9
+    Bacillus paranthracis: 91
+  mix_201:
+    Bacillus amyloliquefaciens: 91
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 9
+  mix_202:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 91
+    Bacillus subtilis: 0
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 9
+  mix_203:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 91
+    Bacillus velezensis: 0
+    Bacillus paranthracis: 9
+  mix_204:
+    Bacillus amyloliquefaciens: 0
+    Bacillus licheniformis: 0
+    Bacillus subtilis: 0
+    Bacillus velezensis: 91
+    Bacillus paranthracis: 9

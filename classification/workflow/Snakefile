@@ -1,0 +1,9 @@
+from pathlib import Path
+
+include: "rules/kma.smk"
+
+rule all:
+    input:
+        expand(Path('{ROOT}') / '{sample_name}' / 'classification' / 'kma_tsv_mapstat_wo_pl_collapsed_highest_id.tsv',
+            ROOT=config['output_dir'], sample_name = config['samples'].keys()),
+
