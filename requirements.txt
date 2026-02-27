@@ -1,0 +1,7 @@
+bs4>=0.0.2
+pandas>=2.3.2
+pulp==2.7.0
+pytest>=8.4.2
+pyyaml>=6.0.2
+snakemake>=7.32.4
+yattag>=1.16.1
